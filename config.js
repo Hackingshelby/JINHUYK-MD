@@ -19,8 +19,8 @@ global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Vajrhmz96H4I
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vajrhmz96H4IsEjh4a41";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.imgur.com/TAGPcMC.jpeg,https://files.catbox.moe/59iafh.jpg,https://files.catbox.moe/jynitk.jpg,https://files.catbox.moe/dohubs.jpg,https://files.catbox.moe/nm85c3.jpg";
 global.devs = "https://wa.me/242067274660 , https://wa.me/243849962848";
-global.sudo = process.env.SUDO || "242067274660";
-global.owner = process.env.OWNER_NUMBER || "PUT YOUR OWNER NUMBER";
+global.sudo = process.env.SUDO || "243904468847";
+global.owner = process.env.OWNER_NUMBER || "243904468847";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "true";
@@ -50,10 +50,10 @@ module.exports = {
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "`BRAND PRODUCT OF 𝐉𝚰𝚴𝚮𝐘𝐔𝐊`",
-  author: process.env.PACK_AUTHER || "𝐉𝚰𝚴𝚮𝐘𝐔𝐊",
-  packname: process.env.PACK_NAME || "𝐉𝐈𝐍𝐇𝐘𝐔𝐊-𝐌𝐃",
+  author: process.env.PACK_AUTHER || "𝑇𝐻𝑂𝑀𝐴𝑆 𝑆𝐻𝐸𝐿𝐵𝑌 𝐺𝑅𝐼𝑀𝑀",
+  packname: process.env.PACK_NAME || "𝑇𝐻𝑂𝑀𝐴𝑆 𝑆𝐻𝐸𝐿𝐵𝑌 𝐺𝑅𝐼𝑀𝑀",
   botname: process.env.BOT_NAME || "𝐉𝚰𝚴𝚮𝐘𝐔𝐊-𝚳𝐃",
-  ownername: process.env.OWNER_NAME || "𝑃𝒂𝒚𝒆𝒓 𝑈𝒏𝒌𝒏𝒐𝒘𝒏",
+  ownername: process.env.OWNER_NAME || "𝑇𝐻𝑂𝑀𝐴𝑆 𝑆𝐻𝐸𝐿𝐵𝑌 𝐺𝑅𝐼𝑀𝑀",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "tCxobE1FqJgfbDZgsYQNHBFB",
